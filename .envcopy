@@ -1,0 +1,6 @@
+# Isi dengan nomor admin atau notif bahwa whatsapp sudah terhubung
+Nomor_ADMIN=628********
+# Isi dengan secret atau verifikasi kode agar tidak disalah gunakan orang lain
+SECRET_APP=Contoh123
+# Isi dengan port yang ingin digunakan
+PORT=180
